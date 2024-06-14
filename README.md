@@ -1,6 +1,6 @@
-# Task 
+# Terraform Initial Setup 
 
-This repository contains the hands-on task for the "Infrastructure as Code with Terraform" course. The task involves customizing and initializing a Terraform project.
+This repository contains the hands-on task for the **Infrastructure as Code with Terraform** module. This task involves customizing and initializing a Terraform project.
 
 ## Prerequisites
 
@@ -10,9 +10,8 @@ This repository contains the hands-on task for the "Infrastructure as Code with 
 
 ## Hands-on Task: Initialize a Simple Terraform Project with Azure
 
-1. Fork this repository
-2. Customize the Terraform configuration
-    -  Make a minor change, such as updating the resource group name
-3. Initialize the Terraform project
-4. Commit the `.terraform.lock.hcl` to GitHub repository
-5. Submit a PR with your changes for validation 
+1. Fork this repository.
+2. Customize the Terraform configuration. Make a minor change, such as updating the resource group name.
+3. Initialize the Terraform project.
+4. Commit the `.terraform.lock.hcl` to the GitHub repository.
+5. Submit a PR with your changes for validation. 
